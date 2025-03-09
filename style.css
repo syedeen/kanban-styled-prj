@@ -14,6 +14,7 @@
   border-radius: 25px;
 }
 
+
 .bar{
     background-color:aqua;
     height:150px;
@@ -24,4 +25,20 @@
     justify-content: center;
     align-items: center;
     padding: 5px;
+}
+
+/* close-btn */
+
+.close{
+    height: 20px;
+    width: 20px;
+    background-color:blueviolet;
+    position:absolute;
+    top: 0px;
+    right:0px;
+    font-size: larger;
+    padding: 3px;
+    text-align: center;
+
+ 
 }
