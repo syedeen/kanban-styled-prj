@@ -1,0 +1,27 @@
+.f{
+    background-color: aqua;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    position:fixed;
+    
+}
+
+.clr{
+  height: 30px;
+  width: 30px;
+  background-color: chartreuse;
+  border-radius: 25px;
+}
+
+.bar{
+    background-color:aqua;
+    height:150px;
+    width: 40px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
